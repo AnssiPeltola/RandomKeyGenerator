@@ -1,0 +1,33 @@
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\bin\Debug\Key Generator.exe.config
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\bin\Debug\Key Generator.exe
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\bin\Debug\Key Generator.pdb
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.csproj.AssemblyReference.cache
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key_Generator.Form1.resources
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key_Generator.Properties.Resources.resources
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.csproj.GenerateResource.cache
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.csproj.CoreCompileInputs.cache
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.exe
+C:\Users\Anssi\source\repos\Key Generator\Key Generator\obj\Debug\Key Generator.pdb
+C:\Users\Anssi\Desktop\Key Generator\bin\Debug\Key Generator.exe.config
+C:\Users\Anssi\Desktop\Key Generator\bin\Debug\Key Generator.exe
+C:\Users\Anssi\Desktop\Key Generator\bin\Debug\Key Generator.pdb
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.csproj.AssemblyReference.cache
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key_Generator.Form1.resources
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key_Generator.Properties.Resources.resources
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.csproj.GenerateResource.cache
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.csproj.CoreCompileInputs.cache
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.exe
+C:\Users\Anssi\Desktop\Key Generator\obj\Debug\Key Generator.pdb
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\bin\Debug\Key Generator.exe.config
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\bin\Debug\Key Generator.exe
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\bin\Debug\Key Generator.pdb
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.csproj.AssemblyReference.cache
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key_Generator.Form1.resources
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key_Generator.Properties.Resources.resources
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.csproj.GenerateResource.cache
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.csproj.CoreCompileInputs.cache
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.exe
+C:\Users\Anssi\Desktop\Keygen project\Key Generator\obj\Debug\Key Generator.pdb
